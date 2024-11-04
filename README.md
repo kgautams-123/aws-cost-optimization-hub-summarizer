@@ -140,6 +140,3 @@ This project is licensed under the MIT License.
 ---
 
 **Note**: Ensure all services are available in your region and your AWS account has appropriate service quotas before deployment.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31009598/b926b288-a5f9-4399-a5f7-f9aa966cc916/lambda.py
