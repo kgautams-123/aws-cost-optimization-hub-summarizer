@@ -35,7 +35,7 @@ This solution automatically generates and emails weekly cost optimization report
 2. **Upload Template**
    - Select **Template is ready**
    - Choose **Upload a template file**
-   - Upload the `template.yaml` file
+   - Upload the `cost_optimization_recommendation.yaml` file
    - Click **Next**
 
 3. **Configure Stack**
