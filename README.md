@@ -8,6 +8,8 @@ This solution automatically generates and emails weekly cost optimization report
 
 ## Architecture Components
 
+![Architecture Diagram](Architecture.png)
+
 - **AWS Lambda**: Processes cost analysis and generates reports
 - **Amazon EventBridge**: Schedules weekly executions
 - **AWS Cost Optimization Hub**: Provides cost optimization insights
